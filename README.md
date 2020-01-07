@@ -1,0 +1,2 @@
+# Information-Retrieval
+The primary focus is to study the data and build a predictive model to predict whether a customer will go for term deposit or not by using the attributes. The classification goal is to predict if the client will subscribe a term deposit (variable y). Such model can increase campaign efficiency by identifying the main characteristics that affect success, helping in a better management of the available resources (e.g. human effort, phone calls, time) and selection of a high quality and affordable set of potential buying customers.
